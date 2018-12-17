@@ -1,0 +1,14 @@
+{
+  "name": "song-cli",
+  "version": "1.2.2",
+  "description": "a cli demo based on node",
+  "author": "songlongfei",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "commander": "^2.19.0"
+  },
+  "bin": {
+    "song": "bin/index.js"
+  }
+}

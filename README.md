@@ -1,2 +1,1 @@
-# song-cli
-a simple cli demo based on node
+### 基于node的自定义cli工具
